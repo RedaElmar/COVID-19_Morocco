@@ -15,4 +15,4 @@ This dataset includes chronologic tracking of the number of people affected by C
 
 ## Data
 
-Data is in CSV format and updated daily. It is sourced from the last report of each day on [The Moroccan Ministry of Public Health COVID-19 Platform](http://www.covidmaroc.ma/Pages/AccueilAR.aspx) and completed(especially in early days of pandemic where statistics collection was erratic, patchy, and not systemized.) with MAP:[the Moroccan national news agency](http://www.mapexpress.ma) reports.
+Data is in CSV format and updated daily. It is sourced from the last report of each day on [The Moroccan Ministry of Public Health COVID-19 Platform](http://www.covidmaroc.ma/Pages/AccueilAR.aspx) and completed (especially in early days of the pandemic where statistical reports were erratic, patchy, and not systemized.) with [MAP](http://www.mapexpress.ma) : the Moroccan national news agency reports.
