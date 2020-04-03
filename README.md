@@ -6,10 +6,10 @@ This is the data repository for the 2019 Novel Coronavirus Cases In Morocco.(COV
 
 This dataset includes chronologic tracking of the number of people affected by COVID-19 in Morocco, including:
 
-* confirmed tested cases of Coronavirus infection
-* the number of people who have reportedly died while sick with Coronavirus
-* the number of people who have reportedly recovered from it
-* the number of people who tested negative
+* Confirmed tested cases of Coronavirus infection
+* The number of people who have reportedly died while sick with Coronavirus
+* The number of people who have reportedly recovered from it
+* The number of people who tested negative
 * Data is disaggregated by region (Since March 22,[The Moroccan Ministry of Public Health](https://www.sante.gov.ma/Pages/Accueil.aspx) started publishing the regional distribution of confirmed cases)
 
 
