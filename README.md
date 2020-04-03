@@ -4,7 +4,7 @@ This is the data repository for the 2019 Novel Coronavirus Cases In Morocco.(COV
 [covid]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 [sars2]: https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2
 
-This dataset includes chronologic tracking of the number of people affected by COVID-19 in Morocco, including:
+This dataset includes chronological tracking of the number of people affected by COVID-19 in Morocco, including:
 
 * Confirmed tested cases of Coronavirus infection
 * The number of people who have reportedly died while sick with Coronavirus
