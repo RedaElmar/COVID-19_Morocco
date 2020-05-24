@@ -1,4 +1,10 @@
 # COVID-19_Morocco
+![](https://img.shields.io/github/issues/RedaElmar/COVID-19_Morocco)
+![](https://img.shields.io/github/forks/RedaElmar/COVID-19_Morocco)
+![](https://img.shields.io/github/stars/RedaElmar/COVID-19_Morocco)
+![](https://img.shields.io/github/license/RedaElmar/COVID-19_Morocco)
+
+
 This is the data repository for the 2019 Novel Coronavirus Cases In Morocco.(COVID-19) dataset listing confirmed cases, reported deaths and reported recoveries. Coronavirus disease (COVID-19) is caused by the [Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2)][sars2] and has had a worldwide effect. On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the coronavirus illness in over 110 countries and territories around the world at the time.
 
 [covid]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
